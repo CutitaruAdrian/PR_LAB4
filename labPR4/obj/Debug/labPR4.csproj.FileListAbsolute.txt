@@ -1,0 +1,71 @@
+D:\universitate\semestru2\Programarea in retea\LABORATOR4\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe.config
+D:\universitate\semestru2\Programarea in retea\LABORATOR4\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe
+D:\universitate\semestru2\Programarea in retea\LABORATOR4\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.pdb
+D:\universitate\semestru2\Programarea in retea\LABORATOR4\laborator-4-pr\labPR4\labPR4\bin\Debug\ImapX.dll
+D:\universitate\semestru2\Programarea in retea\LABORATOR4\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.csprojResolveAssemblyReference.cache
+D:\universitate\semestru2\Programarea in retea\LABORATOR4\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.Form1.resources
+D:\universitate\semestru2\Programarea in retea\LABORATOR4\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.Properties.Resources.resources
+D:\universitate\semestru2\Programarea in retea\LABORATOR4\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.csproj.GenerateResource.Cache
+D:\universitate\semestru2\Programarea in retea\LABORATOR4\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.exe
+D:\universitate\semestru2\Programarea in retea\LABORATOR4\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.pdb
+C:\Users\Cristin\Desktop\LABORATOR4\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe.config
+C:\Users\Cristin\Desktop\LABORATOR4\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.exe
+C:\Users\Cristin\Desktop\LABORATOR4\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.pdb
+C:\Users\Cristin\Desktop\LABORATOR4\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe
+C:\Users\Cristin\Desktop\LABORATOR4\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.pdb
+C:\Users\Cristin\Desktop\LABORATOR4\laborator-4-pr\labPR4\labPR4\bin\Debug\ImapX.dll
+C:\Users\Cristin\Desktop\LABORATOR4\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.csprojResolveAssemblyReference.cache
+C:\Users\Cristin\Desktop\LABORATOR4\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.Form1.resources
+C:\Users\Cristin\Desktop\LABORATOR4\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.Properties.Resources.resources
+C:\Users\Cristin\Desktop\LABORATOR4\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.csproj.GenerateResource.Cache
+C:\Users\Petru\Downloads\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe.config
+C:\Users\Petru\Downloads\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe
+C:\Users\Petru\Downloads\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.pdb
+C:\Users\Petru\Downloads\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\ImapX.dll
+C:\Users\Petru\Downloads\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.csprojResolveAssemblyReference.cache
+C:\Users\Petru\Downloads\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.Form1.resources
+C:\Users\Petru\Downloads\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.Properties.Resources.resources
+C:\Users\Petru\Downloads\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.csproj.GenerateResource.Cache
+C:\Users\Petru\Downloads\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.exe
+C:\Users\Petru\Downloads\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.pdb
+C:\Users\Petru\Downloads\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\OpenPop.dll
+C:\Users\Petru\Downloads\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\OpenPop.xml
+C:\Anul3\Universitate\Anul3\Semestrul 2\PR\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe.config
+C:\Anul3\Universitate\Anul3\Semestrul 2\PR\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe
+C:\Anul3\Universitate\Anul3\Semestrul 2\PR\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.pdb
+C:\Anul3\Universitate\Anul3\Semestrul 2\PR\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\ImapX.dll
+C:\Anul3\Universitate\Anul3\Semestrul 2\PR\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\OpenPop.dll
+C:\Anul3\Universitate\Anul3\Semestrul 2\PR\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\OpenPop.xml
+C:\Anul3\Universitate\Anul3\Semestrul 2\PR\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.csprojResolveAssemblyReference.cache
+C:\Anul3\Universitate\Anul3\Semestrul 2\PR\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.Form1.resources
+C:\Anul3\Universitate\Anul3\Semestrul 2\PR\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.Properties.Resources.resources
+C:\Anul3\Universitate\Anul3\Semestrul 2\PR\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.csproj.GenerateResource.Cache
+C:\Anul3\Universitate\Anul3\Semestrul 2\PR\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.exe
+C:\Anul3\Universitate\Anul3\Semestrul 2\PR\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.pdb
+C:\Users\Slavic\Desktop\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe.config
+C:\Users\Slavic\Desktop\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.exe
+C:\Users\Slavic\Desktop\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.pdb
+D:\Anul III\Sem II\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe.config
+D:\Anul III\Sem II\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.exe
+D:\Anul III\Sem II\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.pdb
+D:\Anul III\Sem II\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe
+D:\Anul III\Sem II\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.pdb
+D:\Anul III\Sem II\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\ImapX.dll
+D:\Anul III\Sem II\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\OpenPop.dll
+D:\Anul III\Sem II\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\OpenPop.xml
+D:\Anul III\Sem II\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.csprojResolveAssemblyReference.cache
+D:\Anul III\Sem II\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.Form1.resources
+D:\Anul III\Sem II\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.Properties.Resources.resources
+D:\Anul III\Sem II\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.csproj.GenerateResource.Cache
+D:\utm\UTM\utm3.2\! sem2\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe.config
+D:\utm\UTM\utm3.2\! sem2\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.exe
+D:\utm\UTM\utm3.2\! sem2\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\labPR4.pdb
+D:\utm\UTM\utm3.2\! sem2\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\ImapX.dll
+D:\utm\UTM\utm3.2\! sem2\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\OpenPop.dll
+D:\utm\UTM\utm3.2\! sem2\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\bin\Debug\OpenPop.xml
+D:\utm\UTM\utm3.2\! sem2\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.csprojResolveAssemblyReference.cache
+D:\utm\UTM\utm3.2\! sem2\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.Form1.resources
+D:\utm\UTM\utm3.2\! sem2\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.Properties.Resources.resources
+D:\utm\UTM\utm3.2\! sem2\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.csproj.GenerateResource.Cache
+D:\utm\UTM\utm3.2\! sem2\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.exe
+D:\utm\UTM\utm3.2\! sem2\PRLab\laborator-4-pr\laborator-4-pr\labPR4\labPR4\obj\Debug\labPR4.pdb
